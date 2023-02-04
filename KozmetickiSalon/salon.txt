@@ -1,0 +1,9 @@
+Ime:Salon LepoteAdresa:Tamo Daleko 21Da li poseduje parking:true
+PeraPetrovic2M
+10
+MilicaMilic1Z
+5
+DusanDusanovic7M
+10PLATINUM_KARTICA
+MilkaMilkic12Z
+25SILVER_KARTICA
